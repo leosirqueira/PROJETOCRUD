@@ -1,0 +1,11 @@
+# Ignorar node_modules da raiz, backend e frontend
+node_modules
+backendnode_modules
+frontendnode_modules
+
+# Build do React
+frontendbuild
+
+# Outros arquivos que você não quer versionar (opcional)
+.DS_Store
+.env
