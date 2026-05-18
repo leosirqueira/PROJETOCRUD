@@ -9,3 +9,8 @@ frontendbuild
 # Outros arquivos que você não quer versionar (opcional)
 .DS_Store
 .env
+
+node_modules/
+dist/
+output/
+.cache/

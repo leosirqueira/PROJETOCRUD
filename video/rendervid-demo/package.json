@@ -1,0 +1,16 @@
+{
+  "name": "rendervid-demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "render": "tsx render.ts"
+  },
+  "dependencies": {
+    "@rendervid/core": "0.1.0",
+    "@rendervid/renderer-node": "0.1.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
